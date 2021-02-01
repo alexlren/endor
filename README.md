@@ -1,0 +1,3 @@
+# endor
+
+Analyze stocks patterns
